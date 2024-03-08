@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C83963DB-CFCC-40A0-9EA2-54A4B232A273}|E_Commerce_Store.csproj|f:\\csharp projects\\e_commerce_store\\e_commerce_store\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83963DB-CFCC-40A0-9EA2-54A4B232A273}|E_Commerce_Store.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83963DB-CFCC-40A0-9EA2-54A4B232A273}|E_Commerce_Store.csproj|f:\\csharp projects\\e_commerce_store\\e_commerce_store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83963DB-CFCC-40A0-9EA2-54A4B232A273}|E_Commerce_Store.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\EcommerceDataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\UnitofWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EcommerceDataContext.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\EcommerceDataContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\KashanExpress.DataAccessLayer\\EcommerceDataContext.cs",
+              "ToolTip": "F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\EcommerceDataContext.cs",
+              "RelativeToolTip": "..\\..\\KashanExpress.DataAccessLayer\\EcommerceDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:02:40.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwEgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:01:56.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitofWork.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\UnitofWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\UnitofWork.cs",
+              "ToolTip": "F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\UnitofWork.cs",
+              "RelativeToolTip": "..\\..\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\UnitofWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:46:24.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\Repository.cs",
+              "ToolTip": "F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\Repository.cs",
+              "RelativeToolTip": "..\\..\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\Repository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:39:15.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\CategoryRepository.cs",
+              "ToolTip": "F:\\Csharp Projects\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\..\\KashanExpress.DataAccessLayer\\Infrastructure\\Reposatory\\CategoryRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:39:08.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:47:29.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

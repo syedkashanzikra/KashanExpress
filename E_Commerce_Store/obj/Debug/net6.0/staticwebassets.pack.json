@@ -1,0 +1,3125 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E_Commerce_Store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E_Commerce_Store.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\admintemplate\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\css\\icons\\tabler-icons\\tabler-icons.css",
+      "PackagePath": "staticwebassets\\admintemplate\\css\\icons\\tabler-icons\\tabler-icons.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admintemplate\\css\\styles.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\css\\styles.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\css\\styles.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\images\\backgrounds\\rocket.png",
+      "PackagePath": "staticwebassets\\admintemplate\\images\\backgrounds\\rocket.png"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\images\\logos\\dark-logo.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\images\\logos\\dark-logo.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\images\\logos\\favicon.png",
+      "PackagePath": "staticwebassets\\admintemplate\\images\\logos\\favicon.png"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\images\\products\\s1.jpg",
+      "PackagePath": "staticwebassets\\admintemplate\\images\\products\\s1.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\images\\products\\s11.jpg",
+      "PackagePath": "staticwebassets\\admintemplate\\images\\products\\s11.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\images\\products\\s4.jpg",
+      "PackagePath": "staticwebassets\\admintemplate\\images\\products\\s4.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\images\\products\\s5.jpg",
+      "PackagePath": "staticwebassets\\admintemplate\\images\\products\\s5.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\images\\products\\s7.jpg",
+      "PackagePath": "staticwebassets\\admintemplate\\images\\products\\s7.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\images\\profile\\user-1.jpg",
+      "PackagePath": "staticwebassets\\admintemplate\\images\\profile\\user-1.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\admintemplate\\js\\app.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admintemplate\\js\\dashboard.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\admintemplate\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\LICENSE",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\README.md",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\README.md"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.amd.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.common.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.esm.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\apexcharts.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\ar.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\ca.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\cs.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\de.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\de.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\el.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\el.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\en.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\en.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\es.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\es.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\et.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\et.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\fa.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\fi.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\fr.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\he.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\he.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\hi.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\hr.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\hu.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\hy.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\id.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\id.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\it.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\it.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\ja.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\ka.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\ko.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\lt.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\lv.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\nb.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\nl.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\pl.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\pt-br.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\pt.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\rs.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\ru.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\se.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\se.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\sk.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\sl.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\sq.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\th.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\th.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\tr.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\ua.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\dist\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\dist\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\package.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\package.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\apexcharts.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\apexcharts.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\apexcharts.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\apexcharts.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-camera.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-camera.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-home.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-home.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-menu.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-menu.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-minus-square.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-minus-square.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-minus.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-minus.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-pan-hand.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-pan-hand.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-pan.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-pan.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-plus-square.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-plus-square.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-plus.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-plus.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-refresh.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-refresh.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-reset.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-reset.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-select.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-select.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-select1.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-select1.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-zoom-in.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-zoom-in.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-zoom-out.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-zoom-out.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-zoom.svg",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\assets\\ico-zoom.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\Bar.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\Bar.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\BarStacked.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\BarStacked.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\BoxCandleStick.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\BoxCandleStick.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\HeatMap.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\HeatMap.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\Line.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\Line.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\Pie.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\Pie.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\Radar.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\Radar.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\Radial.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\Radial.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\RangeBar.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\RangeBar.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\Scatter.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\Scatter.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\Treemap.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\Treemap.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\bar\\DataLabels.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\bar\\DataLabels.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\bar\\Helpers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\bar\\Helpers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\circle\\Helpers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\circle\\Helpers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\line\\Helpers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\line\\Helpers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\treemap\\Helpers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\charts\\common\\treemap\\Helpers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\libs\\Treemap-squared.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\libs\\Treemap-squared.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\ar.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\ca.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\cs.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\de.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\de.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\el.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\el.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\en.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\en.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\es.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\es.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\et.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\et.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\fa.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\fi.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\fr.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\he.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\he.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\hi.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\hr.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\hu.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\hy.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\id.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\id.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\it.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\it.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\ja.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\ka.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\ko.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\lt.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\lv.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\nb.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\nl.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\pl.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\pt-br.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\pt.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\rs.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\ru.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\se.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\se.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\sk.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\sl.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\sq.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\th.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\th.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\tr.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\ua.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Animations.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Animations.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Base.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Base.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Core.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Core.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\CoreUtils.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\CoreUtils.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Crosshairs.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Crosshairs.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Data.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Data.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\DataLabels.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\DataLabels.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Events.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Events.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Exports.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Exports.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Fill.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Fill.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Filters.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Filters.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Formatters.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Formatters.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Graphics.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Graphics.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Markers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Markers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Range.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Range.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Responsive.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Responsive.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Scales.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Scales.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Series.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Series.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Theme.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Theme.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\TimeScale.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\TimeScale.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\TitleSubtitle.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\TitleSubtitle.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\Toolbar.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\Toolbar.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\ZoomPanSelection.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\ZoomPanSelection.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\Annotations.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\Annotations.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\Helpers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\Helpers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\PointsAnnotations.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\PointsAnnotations.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\XAxisAnnotations.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\XAxisAnnotations.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\YAxisAnnotations.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\annotations\\YAxisAnnotations.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\Axes.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\Axes.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\AxesUtils.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\AxesUtils.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\Grid.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\Grid.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\XAxis.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\XAxis.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\YAxis.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\axes\\YAxis.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\Dimensions.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\Dimensions.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\Grid.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\Grid.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\Helpers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\Helpers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\XAxis.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\XAxis.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\YAxis.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\dimensions\\YAxis.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\helpers\\Destroy.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\helpers\\Destroy.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\helpers\\InitCtxVariables.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\helpers\\InitCtxVariables.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\helpers\\Localization.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\helpers\\Localization.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\helpers\\UpdateHelpers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\helpers\\UpdateHelpers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\legend\\Helpers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\legend\\Helpers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\legend\\Legend.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\legend\\Legend.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\settings\\Config.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\settings\\Config.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\settings\\Defaults.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\settings\\Defaults.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\settings\\Globals.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\settings\\Globals.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\settings\\Options.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\settings\\Options.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\AxesTooltip.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\AxesTooltip.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Intersect.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Intersect.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Labels.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Labels.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Marker.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Marker.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Position.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Position.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\README.md",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\README.md"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Tooltip.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Tooltip.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Utils.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\modules\\tooltip\\Utils.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\svgjs\\svg.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\svgjs\\svg.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\utils\\DateTime.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\utils\\DateTime.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\utils\\Resize.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\utils\\Resize.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\src\\utils\\Utils.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\src\\utils\\Utils.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\apexcharts\\types\\apexcharts.d.ts",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\apexcharts\\types\\apexcharts.d.ts"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\README.md"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\config.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\index.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\index.esm.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\index.esm.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\index.umd.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\README.md",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\README.md"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\browsers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\browsers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\helpers\\fixture.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\helpers\\fixture.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\bundle-modularity.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\bundle-modularity.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\bundle.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\bundle.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\index.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\index.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle-modularity.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle-modularity.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\karma.conf.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\karma.conf.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\.eslintrc.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\alert.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\alert.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\base-component.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\base-component.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\button.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\button.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\carousel.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\carousel.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\collapse.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\collapse.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dom\\data.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dom\\data.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dom\\event-handler.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dom\\event-handler.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dom\\manipulator.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dom\\manipulator.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dom\\selector-engine.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dom\\selector-engine.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dropdown.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\dropdown.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\jquery.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\jquery.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\modal.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\modal.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\offcanvas.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\offcanvas.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\popover.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\popover.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\scrollspy.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\scrollspy.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\tab.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\tab.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\toast.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\toast.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\tooltip.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\tooltip.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\backdrop.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\backdrop.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\component-functions.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\component-functions.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\config.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\config.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\focustrap.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\focustrap.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\index.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\index.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\sanitizer.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\sanitizer.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\scrollbar.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\scrollbar.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\swipe.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\swipe.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\template-factory.spec.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\unit\\util\\template-factory.spec.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\.eslintrc.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\alert.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\alert.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\button.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\button.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\carousel.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\carousel.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\collapse.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\collapse.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\dropdown.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\dropdown.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\modal.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\modal.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\popover.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\popover.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\scrollspy.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\scrollspy.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\tab.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\tab.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\toast.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\toast.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\tooltip.html",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\js\\tests\\visual\\tooltip.html"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\package.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\AUTHORS.txt"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\README.md"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\bower.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\dist\\core.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\external\\sizzle\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\external\\sizzle\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\external\\sizzle\\dist\\sizzle.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\external\\sizzle\\dist\\sizzle.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\external\\sizzle\\dist\\sizzle.min.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\external\\sizzle\\dist\\sizzle.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\external\\sizzle\\dist\\sizzle.min.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\external\\sizzle\\dist\\sizzle.min.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\package.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\.eslintrc.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\ajax\\parseXML.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\ajax\\parseXML.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\DOMEval.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\DOMEval.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\camelCase.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\camelCase.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\isAttached.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\isAttached.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\nodeName.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\nodeName.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\parseHTML.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\parseHTML.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\readyException.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\readyException.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\stripAndCollapse.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\stripAndCollapse.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\toType.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\toType.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\core\\var\\rsingleTag.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\core\\var\\rsingleTag.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\addGetHookIf.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\addGetHookIf.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\adjustCSS.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\adjustCSS.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\curCSS.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\curCSS.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\finalPropName.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\finalPropName.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\showHide.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\showHide.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\var\\cssExpand.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\var\\cssExpand.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\var\\getStyles.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\var\\getStyles.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\var\\isHiddenWithinTree.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\var\\isHiddenWithinTree.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\var\\rboxStyle.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\var\\rboxStyle.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\data\\Data.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\data\\Data.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\data\\var\\acceptData.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\data\\var\\acceptData.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\data\\var\\dataPriv.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\data\\var\\dataPriv.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\data\\var\\dataUser.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\data\\var\\dataUser.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\deferred\\exceptionHook.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\deferred\\exceptionHook.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\effects\\Tween.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\effects\\Tween.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\effects\\animatedSelector.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\effects\\animatedSelector.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\event\\ajax.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\event\\ajax.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\event\\alias.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\event\\alias.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\event\\focusin.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\event\\focusin.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\event\\support.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\event\\support.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\manipulation\\_evalUrl.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\manipulation\\_evalUrl.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\manipulation\\buildFragment.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\manipulation\\buildFragment.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\manipulation\\getAll.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\manipulation\\getAll.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\manipulation\\setGlobalEval.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\manipulation\\setGlobalEval.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\manipulation\\var\\rscriptType.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\manipulation\\var\\rscriptType.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\manipulation\\var\\rtagName.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\manipulation\\var\\rtagName.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\manipulation\\wrapMap.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\manipulation\\wrapMap.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\selector-sizzle.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\selector-sizzle.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\traversing\\findFilter.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\traversing\\findFilter.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\traversing\\var\\rneedsContext.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\traversing\\var\\rneedsContext.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\ObjectFunctionString.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\ObjectFunctionString.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\concat.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\concat.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\documentElement.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\documentElement.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\fnToString.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\fnToString.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\getProto.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\getProto.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\hasOwn.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\hasOwn.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\indexOf.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\indexOf.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\isFunction.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\isFunction.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\isWindow.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\isWindow.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\rcheckableType.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\rcheckableType.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\rcssNum.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\rcssNum.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\var\\toString.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\var\\toString.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\LICENSE",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\README.md",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\README.md"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar-core.esm.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar-core.esm.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar-core.esm.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar-core.esm.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar.d.ts",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar.d.ts"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar.esm.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar.esm.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar.esm.js.map",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar.esm.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\dist\\simplebar.umd.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\dist\\simplebar.umd.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\package.json",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\package.json"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\src\\helpers.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\src\\helpers.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\src\\index.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\src\\index.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\src\\scrollbar-width.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\src\\scrollbar-width.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\src\\simplebar.css",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\src\\simplebar.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\libs\\simplebar\\src\\simplebar.js",
+      "PackagePath": "staticwebassets\\admintemplate\\libs\\simplebar\\src\\simplebar.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\component\\_card.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\component\\_card.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\component\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\component\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\layouts\\_header.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\layouts\\_header.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\layouts\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\layouts\\_layouts.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\layouts\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\layouts\\_sidebar.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\pages\\_dashboard1.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\pages\\_dashboard1.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\prepros.config",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\prepros.config"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\styles.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\utilities\\_icon-size.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\utilities\\_icon-size.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\variables\\_theme-variables.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\variables\\_theme-variables.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\admintemplate\\scss\\variables\\_variables.scss",
+      "PackagePath": "staticwebassets\\admintemplate\\scss\\variables\\_variables.scss"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lightbox.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\css\\templatemo-hexashop.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-hexashop.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\about-left-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-left-image.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\about-us-page-heading.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-us-page-heading.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\baner-right-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-right-image-01.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\baner-right-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-right-image-02.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\baner-right-image-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-right-image-03.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\baner-right-image-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-right-image-04.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\close.png"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\explore-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore-image-01.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\explore-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore-image-02.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-01.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-02.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-03.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-04.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-05.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-06.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\kid-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\kid-01.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\kid-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\kid-02.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\kid-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\kid-03.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\left-banner-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\left-banner-image.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\men-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\men-01.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\men-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\men-02.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\men-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\men-03.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\assets\\images\\next.png"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\products-page-heading.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products-page-heading.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\service-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\service-01.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\service-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\service-02.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\service-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\service-03.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\single-product-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-01.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\single-product-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-02.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\team-member-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-member-01.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\team-member-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-member-02.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\team-member-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-member-03.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\white-logo.png"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\women-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\women-01.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\women-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\women-02.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\images\\women-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\women-03.jpg"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lightbox.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\quantity.js",
+      "PackagePath": "staticwebassets\\assets\\js\\quantity.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Csharp Projects\\E_Commerce_Store\\E_Commerce_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.E_Commerce_Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.E_Commerce_Store.props",
+      "PackagePath": "build\\E_Commerce_Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.E_Commerce_Store.props",
+      "PackagePath": "buildMultiTargeting\\E_Commerce_Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.E_Commerce_Store.props",
+      "PackagePath": "buildTransitive\\E_Commerce_Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

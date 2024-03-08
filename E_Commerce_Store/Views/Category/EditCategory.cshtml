@@ -1,0 +1,38 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "EditCategory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title fw-semibold mb-4">Update Categories</h5>
+
+            <div class="card">
+                <div class="card-body">
+                    <form method="post">
+                        <div class="mb-3">
+                            <input asp-for="ID" disabled hidden  />
+                            <label asp-for="Name" class="form-label">Category Name</label>
+                            <input asp-for="Name" type="text" class="form-control" />
+                            <span asp-validation-for="Name"></span>
+
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Description" for="exampleInputEmail1" class="form-label">Category Description</label>
+                            <input asp-for="Description" type="text" class="form-control">
+                            <span asp-validation-for="Description"></span>
+
+                        </div>
+
+
+                        <button type="submit" class="btn btn-primary">Update</button>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
