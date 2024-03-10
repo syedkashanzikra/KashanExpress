@@ -32,3 +32,4 @@ F:\Csharp Projects\E_Commerce_Store\KashanExpress.DataAccessLayer\obj\Debug\net6
 F:\Csharp Projects\E_Commerce_Store\KashanExpress.DataAccessLayer\obj\Debug\net6.0\ref\KashanExpress.DataAccessLayer.dll
 F:\Csharp Projects\KashanExpress.DataAccessLayer\obj\Debug\net6.0\KashanEx.61BEF82B.Up2Date
 F:\Csharp Projects\E_Commerce_Store\KashanExpress.DataAccessLayer\obj\Debug\net6.0\KashanEx.61BEF82B.Up2Date
+F:\Csharp Projects\E_Commerce_Store\KashanExpress.DataAccessLayer\obj\Debug\net6.0\KashanExpress.DataAccessLayer.sourcelink.json

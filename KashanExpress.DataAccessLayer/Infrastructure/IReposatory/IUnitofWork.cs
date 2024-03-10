@@ -9,6 +9,7 @@ namespace KashanExpress.DataAccessLayer.Infrastructure.IReposatory
 	public interface IUnitofWork
 	{
 		ICategory Category { get;   }
+		IProduct Product { get; }
 		void Save();
 
 	}

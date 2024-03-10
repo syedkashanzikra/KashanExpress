@@ -6,26 +6,25 @@ using System.Threading.Tasks;
 using KashanExpress.ContextFiles;
 using KashanExpress.DataAccessLayer.Infrastructure.IReposatory;
 using KashanExpress.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace KashanExpress.DataAccessLayer.Infrastructure.Reposatory
 {
-	public class UnitofWork : IUnitofWork
-	{
+	public class ProductRepository : Repository<Product>, IProduct
+		{
 		private readonly EcommerceDataContext _context;
-		public ICategory Category { get; private set; }
-		public IProduct Product { get; private set; }
 
-		public UnitofWork(EcommerceDataContext context, ICategory category ,IProduct product)
+		public ProductRepository(EcommerceDataContext context) : base(context)
 		{
 			_context = context;
-			Category = category; // Make sure this line correctly assigns the injected category repository
-			Product = product;
 		}
 
-		public void Save()
+		public void Update(Product product)
 		{
+			_context.Products.Update(product);
 			_context.SaveChanges();
 		}
 	}
+
 
 }

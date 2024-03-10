@@ -26,3 +26,4 @@ F:\Csharp Projects\E_Commerce_Store\KashanExpress.Models\obj\Debug\net6.0\refint
 F:\Csharp Projects\E_Commerce_Store\KashanExpress.Models\obj\Debug\net6.0\KashanExpress.Models.pdb
 F:\Csharp Projects\E_Commerce_Store\KashanExpress.Models\obj\Debug\net6.0\KashanExpress.Models.genruntimeconfig.cache
 F:\Csharp Projects\E_Commerce_Store\KashanExpress.Models\obj\Debug\net6.0\ref\KashanExpress.Models.dll
+F:\Csharp Projects\E_Commerce_Store\KashanExpress.Models\obj\Debug\net6.0\KashanExpress.Models.sourcelink.json

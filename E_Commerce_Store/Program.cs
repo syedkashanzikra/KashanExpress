@@ -23,6 +23,7 @@ builder.Services.AddDbContext<EcommerceDataContext>(options =>
 
 builder.Services.AddScoped<IUnitofWork, UnitofWork>();
 builder.Services.AddScoped<ICategory, CategoryRepository>();
+builder.Services.AddScoped<IProduct, ProductRepository>();
 
 var app = builder.Build();
 
